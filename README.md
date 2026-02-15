@@ -1,0 +1,1 @@
+# App for Women\nThis application is designed to empower women by providing them with resources and tools to improve their well-being.\n\n## Features\n- User-friendly interface\n- Access to support resources\n- Community forums\n- Personal development tools\n\n## Installation\n1. Clone the repo\n2. Install dependencies\n\n## Contributing\nContributions are welcome!
